@@ -9,6 +9,7 @@ import time
 
 
 
+buzz buzz I am a bug!  
 print("Welcome to SPADE")
 
 
